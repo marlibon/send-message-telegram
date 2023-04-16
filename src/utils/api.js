@@ -1,5 +1,5 @@
 const token = "6153048991:AAG6ViC_vLn5E5H5HZW05n-II8IYph7yHf4";
-const chatId = -967257241;
+const chatId = -965108094;
 const server = `https://api.telegram.org/`;
 
 
