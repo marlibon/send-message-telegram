@@ -1,6 +1,6 @@
 ## Форма для отправки сообщений в чат Telegram от имени бота, указанный в настройках
 
-Посмотреть на форму можно тут (https://marlibon.github.io/send-message-telegram/)[https://marlibon.github.io/send-message-telegram/]
+Посмотреть на форму можно [тут](https://marlibon.github.io/send-message-telegram)
 
 1. Отправка сообщений в чат телеграмм
 2. Небольшая валидация формы
