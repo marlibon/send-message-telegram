@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/send-message-telegram/static/js/main.8421e6a5.js",
+    "static/js/787.1a25d593.chunk.js": "/send-message-telegram/static/js/787.1a25d593.chunk.js",
+    "index.html": "/send-message-telegram/index.html",
+    "main.8421e6a5.js.map": "/send-message-telegram/static/js/main.8421e6a5.js.map",
+    "787.1a25d593.chunk.js.map": "/send-message-telegram/static/js/787.1a25d593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8421e6a5.js"
+  ]
+}
